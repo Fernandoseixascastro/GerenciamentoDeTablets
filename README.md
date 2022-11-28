@@ -30,6 +30,6 @@ Sistema de automatização de controle de Tablets da empresa Novetech:
 
 ![MapaConceitualBD2](https://user-images.githubusercontent.com/94059293/204288785-8ebe1192-f467-4da6-8b5d-3da2e33c6c46.png)
 
-<h2>Modelo Conceitual </h2>
+<h2>Modelo Lógico </h2>
 
 ![ModeloLogico](https://user-images.githubusercontent.com/94059293/204288994-aed5ded2-10be-46f6-941e-1e1c6c072f02.png)
